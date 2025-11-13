@@ -1,1 +1,1 @@
-# mcptesting_github_public
+Sample code repository for testing GitHUB MCP using Public GIT.
